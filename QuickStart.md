@@ -75,7 +75,7 @@ Follow these steps to add body text to introduce your portfolio or portfolio ite
 
 4.	In the text box below **Rich Text Content** section, type or paste your text.
 
-  	  ![Enter Text](https://github.com/carpe4839/fluffy-tribble/blob/fixheadline/12.png)
+  	  ![Enter Text](https://github.com/carpe4839/fluffy-tribble/blob/fixheadline/18.png)
 
 5.	Click **Format** to format text as needed.
 6.	Click **Save**.
@@ -101,14 +101,12 @@ Follow these steps to upload content that you saved on or uploaded to Canvas to 
 3.	Under **Add Content**, click **Course Submission**.
 
     A list of files that you submitted on Canvas displays in descending order by the date they were uploaded.
- 
-      ![Course Content](https://github.com/carpe4839/fluffy-tribble/blob/fixheadline/13.png)
 
 4.	Click the desired file, and then click **Select Submission**.
 
     The file now displays on your ePortfolio page under **Course Submission**.
   	 
-     ![Select Content](https://github.com/carpe4839/fluffy-tribble/blob/fixheadline/14.png)
+     ![Select Content](https://github.com/carpe4839/fluffy-tribble/blob/fixheadline/13.png)
    
 5.	Repeat steps 1 – 3 as many times as needed to upload all desired files.
 6.	Click **Save**.
@@ -133,14 +131,15 @@ Follow these steps to upload an image or file from your computer to this page.
 
 3.	Under **Add Content**, click **Image/File Upload**.
 
-     ![Image File](https://github.com/carpe4839/fluffy-tribble/blob/fixheadline/15.png)
+     ![Image File](https://github.com/carpe4839/fluffy-tribble/blob/fixheadline/14.png)
 
 4.	Click **Choose File**, select the desired file, and then click **Open**.
 5.	Click **Select/Upload File**.
 
       The file now displays on your ePortfolio page.
-6.	Repeat steps 1 – 3 as many times as needed to upload all your desired files.
-7.	Click **Save Page**.
+  	![Image File](https://github.com/carpe4839/fluffy-tribble/blob/fixheadline/15a.png)
+7.	Repeat steps 1 – 3 as many times as needed to upload all your desired files.
+8.	Click **Save Page**.
 </details>
 
 ## Step 4: Rearranging Blocks on a Page
